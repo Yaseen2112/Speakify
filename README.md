@@ -37,6 +37,7 @@ Speakify/
 1️⃣ **Clone this repository** or copy files locally:
 
 git clone https://github.com/Yaseen2112/speakify.git
+
 cd speakify
 
 
@@ -100,6 +101,7 @@ Developed with 💙 using:
 **📧 Email:** skyaseen2112@gmail.com
 
 **📞 Contact:** +91-9704330969
+
 
 
 
