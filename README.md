@@ -22,11 +22,17 @@ The app features a **custom background image** and a **beautiful modern UI** bui
 
 ## 📂 Project Structure
 Speakify/
+
 │
+
 ├── main.py # Main application script
+
 ├── requirements.txt # Dependencies
+
 ├── assets/
+
 │ └── image.png # Background image
+
 └── README.md # This file
 
 
@@ -101,6 +107,7 @@ Developed with 💙 using:
 **📧 Email:** skyaseen2112@gmail.com
 
 **📞 Contact:** +91-9704330969
+
 
 
 
